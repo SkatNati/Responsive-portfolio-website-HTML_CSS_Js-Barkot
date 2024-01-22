@@ -1,6 +1,6 @@
 # Responsive-portfolio-website-HTML_CSS_Js-Barkot
 🔥 Responsive Portfolio Website
-<img src="/Screenshot 2024-01-22 202724.png" />
+
 ## Features
 
 - Responsive Portfolio Website Using HTML CSS & JavaScript
@@ -12,7 +12,7 @@
 ## Demo
 
 Check out the live demo: [barkotamiru.com](https://barkotamiru.com)
-
+<img src="/Screenshot 2024-01-22 202724.png" />
 ## Getting Started
 
 1. Clone the repository:
