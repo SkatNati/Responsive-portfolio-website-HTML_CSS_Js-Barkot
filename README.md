@@ -12,7 +12,7 @@
 ## Demo
 
 Check out the live demo: [barkotamiru.com](https://barkotamiru.com)
-<img src="/Screenshot 2024-01-22 202724.png" />
+<img src="screenshots/Screenshot 2024-01-22 202724.png" />
 ## Getting Started
 
 1. Clone the repository:
