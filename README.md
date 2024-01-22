@@ -1,6 +1,6 @@
 # Responsive-portfolio-website-HTML_CSS_Js-Barkot
 🔥 Responsive Portfolio Website
-
+<img src="/Screenshot 2024-01-22 202724.png" />
 ## Features
 
 - Responsive Portfolio Website Using HTML CSS & JavaScript
@@ -9,7 +9,9 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-![Responsive Portfolio Website](Screenshot_2024-01-22_202616.png)
+## Demo
+
+Check out the live demo: [barkotamiru.com](https://barkotamiru.com)
 
 ## Getting Started
 
