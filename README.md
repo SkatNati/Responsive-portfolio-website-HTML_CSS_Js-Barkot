@@ -12,7 +12,8 @@
 
 ## Demo
 
-Check out the live demo: [barkotamiru.com](https://barkotamiru.com)
+Check out the live demo: [www.barkotamiru.com](https://barkotamiru.com)
+or watch video demostration: [www.barkotamiru.com](https://www.loom.com/share/69217b9b6f5d467ca9f141571d25c71d?sid=64e387ad-fa73-4b4f-8c99-eeff19799505)
 <img src="screenshots/Screenshot 2024-01-22 202724.png" />
 ## Getting Started
 
