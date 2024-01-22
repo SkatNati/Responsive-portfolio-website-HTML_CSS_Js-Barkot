@@ -18,4 +18,4 @@ Check out the live demo: [barkotamiru.com](https://barkotamiru.com)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Responsive-portfolio-website-HTML_CSS_Js-Barkot.git
+   git clone https://github.com/SkatNati/Responsive-portfolio-website-HTML_CSS_Js-Barkot.git
