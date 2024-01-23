@@ -562,6 +562,42 @@ body.light-theme{
 .timeline-item p{
   font-size: var(--smaller-font-size);
   color: var(--text-color-light);
+  display: flex;
+  gap: 1.5rem;
+  text-align: center;
+}
+.home__education-button{
+  color: var(--text-color);
+  gap: 0.35rem;
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.home__education-button::before{
+  content: '';
+  position: absolute;
+  height: 100%;
+  width: 1px;
+  top: 0;
+  left: -2.5rem;
+  background-color: var(--text-color);
+  margin-left: 1.5rem;
+  
+}
+
+.thesis:hover{
+  transform: translateX(0.15rem);
+  transition: .4s;
+}
+.education__icon{
+  font-size: 0.8rem;
+  margin-top: 0.2rem;
+  color: var(--first-color);
+}
+.education__icon:hover{
+  color: var(--text-color-light);
 }
 
 /*=============== SKILLS ===============*/
